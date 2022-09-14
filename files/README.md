@@ -28,7 +28,7 @@ Users should be able to:
 ![](/assets/mobile-design.jpg)
 
 ## 🔗 Live Link
-[![Frontend Mentor | Four card feature section](https://img.shields.io/badge/Frontend_Mentor_|_Four_card_feature_section-000?style=for-the-badge&logo=&logoColor=white)](https://katherineoelsner.com/)
+[![Frontend Mentor | Four card feature section](https://img.shields.io/badge/Frontend_Mentor_|_Four_card_feature_section-000?style=for-the-badge&logo=&logoColor=white)](404 page)
 
 
 ## My process
